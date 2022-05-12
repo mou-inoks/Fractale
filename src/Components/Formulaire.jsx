@@ -40,7 +40,6 @@ function Formulaire() {
         <label className="placeholder">Degré du fractale</label>
       </div>
       <button onClick={SendInformationToApi} type="text" className="submit">Valider</button>
-      <button onClick={SendInformationToApi} type="text" className="submit">Zoom</button>
 
       <div className="input-container ic2">
           {}
