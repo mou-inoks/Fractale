@@ -1,0 +1,9 @@
+svg {
+    stroke: white;
+    stroke-width: 2;
+    display: block;
+    position: relative;
+}
+div {
+    color: white;
+}
